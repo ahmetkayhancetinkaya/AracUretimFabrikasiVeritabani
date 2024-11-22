@@ -1,2 +1,3 @@
-# arac_fabrika_veritabani
+
+# vehicle_factory_database
 Otomobil üreten bir fabrikanın veritabanıdır. (Postgre SQL kullanılmıştır.)
